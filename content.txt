@@ -1,10 +1,7 @@
 red 
 green
 yellow
-<<<<<<< HEAD
 rose
 lotus
-=======
 pink
 purple
->>>>>>> his-branch
